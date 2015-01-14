@@ -1,0 +1,12 @@
+{
+  "name": "grunt-test-project",
+  "version": "0.0.1",
+  "homepage": "https://github.com/readeldj/grunt-test-project",
+  "authors": [
+    "Devin Readel <readeldj@gmail.com>"
+  ],
+  "description": "This app is a test of usinng grunt rather than prepos",
+  "main": "public/index.html",
+  "license": "MIT",
+  "private": true
+}

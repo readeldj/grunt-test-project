@@ -1,0 +1,24 @@
+{
+  "name": "grunt-test-project",
+  "version": "0.0.1",
+  "description": "Thisapp is a tsy of using grunt rather than prepos",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/readeldj/grunt-test-project"
+  },
+  "keywords": [
+    "Devin",
+    "Readel",
+    "<readeldj@gmail.com>"
+  ],
+  "author": "Devin Reade; <readeldj@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/readeldj/grunt-test-project/issues"
+  },
+  "homepage": "https://github.com/readeldj/grunt-test-project"
+}
